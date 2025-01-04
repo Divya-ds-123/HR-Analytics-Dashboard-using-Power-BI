@@ -15,3 +15,8 @@
 - Create a parameter to select the desired data based on a specific condition
 - Encapsulate all steps into a function to be reused for future sheets and data
 - Load and Apply the cleaned data into Power BI
+
+
+## Dataset used
+
+ -Dashboard interaction <a href="https://github.com/Divya-ds-123/HR-Analytics-Dashboard-using-Power-BI/blob/main/Dashboard.JPG">View Dashboard</a>
