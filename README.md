@@ -20,3 +20,25 @@
 ## Dataset used
 
  -Dashboard interaction <a href="https://github.com/Divya-ds-123/HR-Analytics-Dashboard-using-Power-BI/blob/main/Dashboard.JPG">View Dashboard</a>
+
+## Exploring and Manipulate Some Data Using DAX Query:
+- With DAX Query, we can effectively manipulate and analyze the data to provide insights for visulization and identify areas for improvement for HR.
+- Create Measures and columns Using DAX functions such as count, sum function for exploring some clean data for improve dashboard KPI in PowerBI.
+
+## Power BI Dashboard Visualization:
+- Design the dashboard layout
+- Create a measure table to aggregate and display the data using Dax functions
+- Use Visulizations for charts and filters for filter dashboard
+- Now, Add Title HR Dashboard
+- Add Month column as Slicer and add some informative KPI.
+- Add Bar chart, Column chart, Cards, Matrix chart, Donut chart etc
+
+
+## Conclusion:
+Analyzed employee data to identify trends and insights using Power Query and DAX in Power BI. 
+Created an interactive dashboard to track employee turnover and reasons for attrition. Discovered that salespeople are leaving the company in greater numbers due to a 
+lower salary and stagnant hike rates. Provided visualizations and actionable insights to the HR team to address the issue and retain employees.
+
+
+
+
