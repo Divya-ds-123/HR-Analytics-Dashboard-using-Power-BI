@@ -18,8 +18,8 @@
 
 
 ## Dataset used
+<a href="https://github.com/Divya-ds-123/HR-Analytics-Dashboard-using-Power-BI">Dataset</a>
 
- -Dashboard interaction <a href="https://github.com/Divya-ds-123/HR-Analytics-Dashboard-using-Power-BI/blob/main/Dashboard.JPG">View Dashboard</a>
 
 ## Exploring and Manipulate Some Data Using DAX Query:
 - With DAX Query, we can effectively manipulate and analyze the data to provide insights for visulization and identify areas for improvement for HR.
@@ -32,6 +32,8 @@
 - Now, Add Title HR Dashboard
 - Add Month column as Slicer and add some informative KPI.
 - Add Bar chart, Column chart, Cards, Matrix chart, Donut chart etc
+
+- Dashboard interaction <a href="https://github.com/Divya-ds-123/HR-Analytics-Dashboard-using-Power-BI/blob/main/Dashboard.JPG">View Dashboard</a>
 
 
 ## Conclusion:
